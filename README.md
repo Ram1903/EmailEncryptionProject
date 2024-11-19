@@ -14,19 +14,14 @@ This project implements encryption algorithms and demonstrates their functionali
 - Support for various file formats
 
 ## Technologies Used
-- **Programming Language:** Java (or your chosen language)
-- **Libraries/Frameworks:** 
-  - [Bouncy Castle](https://www.bouncycastle.org/) (for cryptographic algorithms) 
-  - [Java Cryptography Extension (JCE)](https://www.oracle.com/java/technologies/java-cryptography-extension-jce.html)
+- **Programming Language:** Java , SQL
+
 - **Tools:** 
-  - Eclipse (IDE)
-  - GitHub for version control
+  - Intellij Idea
   - Maven/Gradle (if used)
 
 ## Setup Instructions
 ### Prerequisites
-1. Install **Java** (version 8 or higher).
-2. Install an IDE like **Eclipse** or **IntelliJ IDEA**.
-3. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/encryption-project.git
+1. Install **Java**).
+2. Install an IDE **IntelliJ IDEA**.
+
